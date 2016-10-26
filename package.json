@@ -2,8 +2,7 @@
   "name": "vue-dropzone",
   "version": "1.0.0",
   "description": "A Vue component for file uploads, powered by Dropzone.js",
-  "author": "Rowan Winsemius <rwinsemius@geoplex.com.au>",
-  "private": true,
+  "author": "Rowan Winsemius <rowanwins@yahoo.com.au>",
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "webpack --progress --hide-modules --config webpack.lib.js"
